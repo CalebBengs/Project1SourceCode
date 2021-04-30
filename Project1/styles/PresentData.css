@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.presentData{
+  width: 70%;
+  margin: auto;
+}
+
+.presentData p{
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: helvetica, tahoma, sans-serif;
+  margin: 0px 0px 10px 0px;
+}

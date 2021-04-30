@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+}
+
+.index-intro h1{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: helvetica, tahoma, sans-serif;
+  margin: 0px 0px 10px 0px;
+}
+
+.index-intro p{
+  border: 2px #000 solid;
+  background-color: #F5F5F5;
+  padding: 10px;
+  margin: auto;
+  width: 80%;
+  text-align: left;
+  font-family: georgia, garamond, serif;
+  font-size: 20px;
+}
+
+.index-categories-list span{
+  display: block;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+  background-color: #708090;
+}
+
+.index-categories h2{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: helvetica, tahoma, sans-serif;
+  margin: 40px 0px 10px 0px;
+}
+
+.index-categories-list h3{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: helvetica, tahoma, sans-serif;
+  margin: 10px 0px;
+}
+
+.index-categories p{
+  padding: 10px;
+  margin: auto;
+  width: 80%;
+  text-align: left;
+  font-family: georgia, garamond, serif;
+  font-size: 20px;
+}
+
+.index-categories{
+  margin: 0px 0px 40px 0px;
+}

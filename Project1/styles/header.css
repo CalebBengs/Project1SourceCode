@@ -1,0 +1,48 @@
+.nvBar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #708090;
+  position: relative;
+  top: 0px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.nvBar li{
+  float: left;
+}
+
+.nvBar li a{
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  color: #FFF;
+  background-color: #708090;
+  border-right: solid 1px #FFF8DC;
+  border-left:  solid 1px #FFF8DC;
+  transition: all 0.3s ease;
+}
+
+.nvBar li a:hover{
+  background-color: #FF7F50;
+}
+
+.nvBar li a:active{
+  background-color: #DEB887;
+}
+
+.prjtName{
+  padding: 10px 0px;
+  margin: 0;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #E6E6FA;
+  color: #000;
+}
+
+.nvBar{
+  padding: 0px 0px 75px 0px;
+}
