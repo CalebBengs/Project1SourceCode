@@ -5,6 +5,8 @@ This file contains a list of the Service Codes currently in use in the Project1 
 
 ## Code List
 
+|            Code List              |
+-------------------------------------
 |A: Audiology/ Ear, Nose, and Throat|
 |B: Specialty Care (General)        |
 |BC: Cardiology                     |
