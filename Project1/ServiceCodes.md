@@ -8,26 +8,50 @@ This file contains a list of the Service Codes currently in use in the Project1 
 |            Code List              |
 -------------------------------------
 |A: Audiology/ Ear, Nose, and Throat|
+-------------------------------------
 |B: Specialty Care (General)        |
+-------------------------------------
 |BC: Cardiology                     |
+-------------------------------------
 |BE: Opthamologist                  |
+-------------------------------------
 |BG: Gastrointestinal Care          |
+-------------------------------------
 |BK: Kidney Care                    |
+-------------------------------------
 |BO: Osteopathic Care               |
+-------------------------------------
 |BP: Pulmonology                    |
+-------------------------------------
 |BR: Rheumatology                   |
+-------------------------------------
 |BS: Orthopedic Care                |
+-------------------------------------
 |BX: Surgical                       |
+-------------------------------------
 |C:  Cancer Treatments              |
-|D:  Denta/Teeth/Mouth Care         |
+-------------------------------------
+|D:  Dental/Teeth/Mouth Care        |
+-------------------------------------
 |E:  ER (Emergency) Care            |
+-------------------------------------
 |F:  Female/Women's Care            |
+-------------------------------------
 |G:  General Care                   |
+-------------------------------------
 |GH: General Hospital Care          |
+-------------------------------------
 |GL: Local Physician                |
+-------------------------------------
 |GU: Urgent Care                    |
+-------------------------------------
 |I:  Injury/Wound Care              |
+-------------------------------------
 |M:  Male/Men's Care                |
+-------------------------------------
 |O:  Optomotry/Eye Care             |
+-------------------------------------
 |R:  Rehab/Physical Therapy         |
+-------------------------------------
 |S:  Dermatology/Skin Care          |
+-------------------------------------
